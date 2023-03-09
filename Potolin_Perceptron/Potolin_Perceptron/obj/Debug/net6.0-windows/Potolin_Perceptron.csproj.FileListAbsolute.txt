@@ -1,0 +1,17 @@
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\bin\Debug\net6.0-windows\Potolin_Perceptron.exe
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\bin\Debug\net6.0-windows\Potolin_Perceptron.deps.json
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\bin\Debug\net6.0-windows\Potolin_Perceptron.runtimeconfig.json
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\bin\Debug\net6.0-windows\Potolin_Perceptron.dll
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\bin\Debug\net6.0-windows\Potolin_Perceptron.pdb
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.csproj.AssemblyReference.cache
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.Form1.resources
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.csproj.GenerateResource.cache
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.AssemblyInfoInputs.cache
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.AssemblyInfo.cs
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.csproj.CoreCompileInputs.cache
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.dll
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\refint\Potolin_Perceptron.dll
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.pdb
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\Potolin_Perceptron.genruntimeconfig.cache
+G:\School\346\Potolin_Perceptron\Potolin_Perceptron\Potolin_Perceptron\obj\Debug\net6.0-windows\ref\Potolin_Perceptron.dll
