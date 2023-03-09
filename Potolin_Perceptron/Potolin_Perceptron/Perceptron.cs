@@ -49,12 +49,13 @@ namespace Potolin_Perceptron
                 if (y != yData[i])
                 {
                     //update weights if y does not equal y'
-                    //wNew = wOld + learn * y'*x1
                     double w1New = w1 + (learn * yData[i] * x1Data[i]);
                     double w2New = w2 + (learn * yData[i] * x2Data[i]);
+                    //set value of old weights = new weights
                     w1 = w1New;
                     w2 = w2New;                    
                 }
+                //place actual y values in an array
                 trainedData[i] = y;
             }     
         }
