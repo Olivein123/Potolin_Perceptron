@@ -7,7 +7,9 @@ The model will successfully learn to compute for the NOR gate iff the bias is se
 
 
 Dataset:
+
 ![image](https://user-images.githubusercontent.com/111875528/224018315-f2618e0a-2aae-4ebf-9320-5ccdcb579cf3.png)
+
 
 
 App:
